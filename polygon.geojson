@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "lineString",
         "coordinates": [ [ -43.28778, -22.7664 ],
   [ -43.2879, -22.7666 ],
   [ -43.28834, -22.76649 ],
